@@ -19,7 +19,7 @@ Since this provides an executable you will have to Globally Install the Package.
 ### Running with npm
 
 ```bash
-npm install -g @s54a-hi
+npm install -g @s54a/hi
 ```
 
 Then, you can execute it with:
@@ -33,7 +33,7 @@ hi
 You can also run the CLI without installing it globally by using npx:
 
 ```bash
-npx @s54a-hi
+npx @s54a/hi
 ```
 
 ## Source Code
@@ -77,7 +77,7 @@ _Output =_
 
 ## File Structure
 
-    @s54a-hi
+    @s54a/hi
     ├── dist
     │ └── index.js
     ├── node_modules
