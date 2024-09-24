@@ -1,6 +1,6 @@
 {
   "name": "@s54a/hi",
-  "version": "2.0.2",
+  "version": "2.0.5",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,26 @@
   },
   "type": "module",
   "bin": {
-    "hi": "./dist/index.js"
+    "hi": "dist/index.js"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s54a/HI-CLI-EXE.git"
+  },
+  "keywords": [
+    "CLI",
+    "Command Line Interface",
+    "TypeScript",
+    "Executable",
+    "npm package",
+    "@s54a/hi",
+    "Console Application",
+    "User Input",
+    "Argument Parsing",
+    "Hello World",
+    "Learning Project",
+    "Open Source"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -24,5 +41,9 @@
     "ts-node": "^10.9.2",
     "tsup": "^8.3.0",
     "typescript": "^5.6.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/s54a/HI-CLI-EXE/issues"
+  },
+  "homepage": "https://github.com/s54a/HI-CLI-EXE#readme"
 }

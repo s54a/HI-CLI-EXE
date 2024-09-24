@@ -10,7 +10,7 @@ I built this to learn how to make CLI Apps with Node JS
 
 ## Preview
 
-![alt text](image.png)
+![Package Preview](image.png)
 
 ## How to use
 
