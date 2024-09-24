@@ -41,9 +41,9 @@ npx @s54a/hi
 ```js
 #!/usr/bin/env node
 
-const argv = process.argv;
+const argv: string[] = process.argv;
 
-const [, , ...args] = process.argv;
+const [, , ...args]: string[] = argv;
 
 if (args.length === 0) {
   console.log("hello, how are you?");

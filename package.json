@@ -1,6 +1,6 @@
 {
   "name": "@s54a/hi",
-  "version": "2.0.7",
+  "version": "2.0.10",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
